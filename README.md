@@ -1,4 +1,4 @@
-# HTML→Markdown Converter (Google Engineer Optimized Version)
+# HTML→Markdown Converter 
 
 A professional, highly configurable HTML to Markdown converter with a GUI, offering:
 - Multiple conversion engines (Readability, Crawl4AI, Jina, html-to-markdown)
