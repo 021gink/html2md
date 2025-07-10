@@ -1,0 +1,8 @@
+beautifulsoup4
+crawl4ai
+readabilipy
+lxml
+httpx
+requests
+html-to-markdown
+markdowncleaner

@@ -1,0 +1,30 @@
+{
+  "timeout": 30,
+  "quality_threshold": 90.0,
+  "ad_threshold": 3.0,
+  "parser": "lxml",
+  "max_file_size_mb": 10,
+  "ad_patterns": [
+    "广告",
+    "赞助",
+    "promoted",
+    "sponsored",
+    "推荐阅读",
+    "相关文章",
+    "你可能喜欢",
+    "关注我们",
+    "订阅",
+    "newsletter"
+  ],
+  "primary_converter": "jina",
+  "enable_markdown_cleaning": true,
+  "min_line_length": 2,
+  "remove_short_lines": false,
+  "remove_footnotes": false,
+  "remove_duplicate_headlines": false,
+  "contract_empty_lines": true,
+  "crimp_linebreaks": false,
+  "preserve_code_blocks": true,
+  "remove_images": false,
+  "remove_links": false
+}
